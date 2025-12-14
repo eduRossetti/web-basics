@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+nav{
+    width: 100vw;
+    height: 5vh;
+}
+
+article{
+    width: 80%;
+}
+
+aside{
+    width: 20%;
+}
+
+footer{
+    height: 10vw;
+    width: 100%;
+}
+
+.conteudo{
+    display: flex;
+
+}
